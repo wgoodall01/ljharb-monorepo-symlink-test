@@ -1,0 +1,11 @@
+{
+  "name": "ljharb-monorepo-symlink-test",
+  "version": "1.0.1",
+  "description": "https://github.com/browserify/resolve/commit/c24f45137a441bc7bf6723b34f8db5ea5ddcacfa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
